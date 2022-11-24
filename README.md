@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 
 <p align="center">
-    Passionate software developer and actively engage in learning new technologies
+    Passionate software developer :technologist: and actively engage in learning new technologies :atom:
     <br><br>
     <!-- · <a href="">Resume</a> · 
     <br> -->
-    <b>Data Science Enthusiast</b> | <b>Full Stack Developer</b>  
-    <br> 
+    <b>Backend Developer :computer: </b> | <b>Data Science :robot: </b> | <b>Platform Engineering :hammer_and_wrench: </b>
+    <br><br>
     <p align="center">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.linkedin.com/in/nhimanshujain/"><img src="https://img.shields.io/badge/-LinkedIn%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/nhimanshujain/"/></a> 
@@ -15,7 +15,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </p>
     <p align="center">
-          <i>Enjoy contributing to open source</i>
+          <i>Enjoy contributing to open source :blue_heart:</i>
     </p>  
     <br> 
 </p>
