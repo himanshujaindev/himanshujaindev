@@ -5,7 +5,7 @@
     <br><br>
     <!-- · <a href="">Resume</a> · 
     <br> -->
-    <b>Backend Developer :computer: </b> | <b>Data Science :robot: </b> | <b>DevOps :hammer_and_wrench: </b>
+    <b>Backend Developer :computer: </b> | <b>Data Science :robot: </b> | <b>Systems :hammer_and_wrench: </b>
     <br><br>
     <p align="center">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
