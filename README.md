@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Himanshu</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Himanshu</h1>
+
 
 <p align="center">
-    Passionate software developer :technologist: and actively engage in learning new technologies :atom:
+    Passionate software developer 👨‍💻 and actively engage in learning new technologies :atom:
     <br><br>
     <!-- · <a href="">Resume</a> · 
     <br> -->
@@ -11,7 +12,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.linkedin.com/in/nhimanshujain/"><img src="https://img.shields.io/badge/-LinkedIn%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/nhimanshujain/"/></a> 
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://twitter.com/himx_me"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_nhimanshujain_" /></a>       
+        <a href="https://twitter.com/5to9coder"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_nhimanshujain_" /></a>       
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </p>
     <p align="center">
