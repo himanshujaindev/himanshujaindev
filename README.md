@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    Passionate software developer 👨‍💻 and actively engage in learning new technologies :atom:
+    Passionate software developer 👨‍💻 and actively engage in learning new technologies 📈
     <br><br>
     <!-- · <a href="">Resume</a> · 
     <br> -->
