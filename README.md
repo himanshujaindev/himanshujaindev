@@ -21,5 +21,5 @@
     <br> 
 </p>
 
-<p><img align="left" src="https://github.com/nhimanshujain/github-stats-transparent/blob/output/generated/overview.svg" alt="nhimanshujain" /></p> 
-<p><img align="right" src="https://github.com/nhimanshujain/github-stats-transparent/blob/output/generated/languages.svg" alt="nhimanshujain" /></p>
+<p><img align="left" src="https://github.com/himanshujaindev/github-stats-transparent/blob/output/generated/overview.svg" alt="nhimanshujain" /></p> 
+<p><img align="right" src="https://github.com/himanshujaindev/github-stats-transparent/blob/output/generated/languages.svg" alt="nhimanshujain" /></p>
