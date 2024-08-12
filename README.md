@@ -10,9 +10,9 @@
     <br><br>
     <p align="center">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.linkedin.com/in/nhimanshujain/"><img src="https://img.shields.io/badge/-LinkedIn%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/nhimanshujain/"/></a> 
+        <a href="https://www.linkedin.com/in/himanshujaindev"><img src="https://img.shields.io/badge/-LinkedIn%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/nhimanshujain/"/></a> 
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://twitter.com/5to9coder"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_nhimanshujain_" /></a>       
+        <a href="https://twitter.com/himanshujaindev"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_nhimanshujain_" /></a>       
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </p>
     <p align="center">
